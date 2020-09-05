@@ -333,6 +333,7 @@ public:
 
 void main()
 {
+cout << "hello " << endl;
 	Field a;
 	bool IsEnd = 0;
 	int pos, pos1;
